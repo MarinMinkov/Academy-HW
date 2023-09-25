@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blacatz W1T1/Blacatz W1T1.iml" filepath="$PROJECT_DIR$/Blacatz W1T1/Blacatz W1T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blacatz W1T2/Blacatz W1T2.iml" filepath="$PROJECT_DIR$/Blacatz W1T2/Blacatz W1T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blacatz W1T3/Blacatz W1T3.iml" filepath="$PROJECT_DIR$/Blacatz W1T3/Blacatz W1T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blacatz W1T4/Blacatz W1T4.iml" filepath="$PROJECT_DIR$/Blacatz W1T4/Blacatz W1T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blacatz W1T5/Blacatz W1T5.iml" filepath="$PROJECT_DIR$/Blacatz W1T5/Blacatz W1T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E1/E1.iml" filepath="$PROJECT_DIR$/E1/E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E10/E10.iml" filepath="$PROJECT_DIR$/E10/E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E11/E11.iml" filepath="$PROJECT_DIR$/E11/E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E12/E12.iml" filepath="$PROJECT_DIR$/E12/E12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E13/E13.iml" filepath="$PROJECT_DIR$/E13/E13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E14/E14.iml" filepath="$PROJECT_DIR$/E14/E14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E14.1/E14.1.iml" filepath="$PROJECT_DIR$/E14.1/E14.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E3/E3.iml" filepath="$PROJECT_DIR$/E3/E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E6/E6.iml" filepath="$PROJECT_DIR$/E6/E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E7/E7.iml" filepath="$PROJECT_DIR$/E7/E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E8/E8.iml" filepath="$PROJECT_DIR$/E8/E8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E9/E9.iml" filepath="$PROJECT_DIR$/E9/E9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Homework.iml" filepath="$PROJECT_DIR$/.idea/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya/Tanya.iml" filepath="$PROJECT_DIR$/Tanya/Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T1/Tanya W3T1.iml" filepath="$PROJECT_DIR$/Tanya W3T1/Tanya W3T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T2/Tanya W3T2.iml" filepath="$PROJECT_DIR$/Tanya W3T2/Tanya W3T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T3/Tanya W3T3.iml" filepath="$PROJECT_DIR$/Tanya W3T3/Tanya W3T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T3.1/Tanya W3T3.1.iml" filepath="$PROJECT_DIR$/Tanya W3T3.1/Tanya W3T3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T4/Tanya W3T4.iml" filepath="$PROJECT_DIR$/Tanya W3T4/Tanya W3T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W3T4.1/Tanya W3T4.1.iml" filepath="$PROJECT_DIR$/Tanya W3T4.1/Tanya W3T4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya W5T4/Tanya W5T4.iml" filepath="$PROJECT_DIR$/Tanya W5T4/Tanya W5T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanya1/Tanya1.iml" filepath="$PROJECT_DIR$/Tanya1/Tanya1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E1/W2E1.iml" filepath="$PROJECT_DIR$/W2E1/W2E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E10/W2E10.iml" filepath="$PROJECT_DIR$/W2E10/W2E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E11/W2E11.iml" filepath="$PROJECT_DIR$/W2E11/W2E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E12/W2E12.iml" filepath="$PROJECT_DIR$/W2E12/W2E12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E2/W2E2.iml" filepath="$PROJECT_DIR$/W2E2/W2E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E3/W2E3.iml" filepath="$PROJECT_DIR$/W2E3/W2E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E4/W2E4.iml" filepath="$PROJECT_DIR$/W2E4/W2E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E5/W2E5.iml" filepath="$PROJECT_DIR$/W2E5/W2E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E6/W2E6.iml" filepath="$PROJECT_DIR$/W2E6/W2E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E7/W2E7.iml" filepath="$PROJECT_DIR$/W2E7/W2E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E8/W2E8.iml" filepath="$PROJECT_DIR$/W2E8/W2E8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2E9/W2E9.iml" filepath="$PROJECT_DIR$/W2E9/W2E9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T1/W2T1.iml" filepath="$PROJECT_DIR$/W2T1/W2T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T1.1/W2T1.1.iml" filepath="$PROJECT_DIR$/W2T1.1/W2T1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T2/W2T2.iml" filepath="$PROJECT_DIR$/W2T2/W2T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T3/W2T3.iml" filepath="$PROJECT_DIR$/W2T3/W2T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T4/W2T4.iml" filepath="$PROJECT_DIR$/W2T4/W2T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T5/W2T5.iml" filepath="$PROJECT_DIR$/W2T5/W2T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T5.1/W2T5.1.iml" filepath="$PROJECT_DIR$/W2T5.1/W2T5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T5.2/W2T5.2.iml" filepath="$PROJECT_DIR$/W2T5.2/W2T5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T6/W2T6.iml" filepath="$PROJECT_DIR$/W2T6/W2T6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T7/W2T7.iml" filepath="$PROJECT_DIR$/W2T7/W2T7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W2T7.1/W2T7.1.iml" filepath="$PROJECT_DIR$/W2T7.1/W2T7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E2/W3E2.iml" filepath="$PROJECT_DIR$/W3E2/W3E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E6/W3E6.iml" filepath="$PROJECT_DIR$/W3E6/W3E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E6.1/W3E6.1.iml" filepath="$PROJECT_DIR$/W3E6.1/W3E6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E7/W3E7.iml" filepath="$PROJECT_DIR$/W3E7/W3E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E8/W3E8.iml" filepath="$PROJECT_DIR$/W3E8/W3E8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3E9/W3E9.iml" filepath="$PROJECT_DIR$/W3E9/W3E9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T1/W3T1.iml" filepath="$PROJECT_DIR$/W3T1/W3T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T2/W3T2.iml" filepath="$PROJECT_DIR$/W3T2/W3T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T3/W3T3.iml" filepath="$PROJECT_DIR$/W3T3/W3T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T3.1/W3T3.1.iml" filepath="$PROJECT_DIR$/W3T3.1/W3T3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T4/W3T4.iml" filepath="$PROJECT_DIR$/W3T4/W3T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3T5/W3T5.iml" filepath="$PROJECT_DIR$/W3T5/W3T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4E1/W4E1.iml" filepath="$PROJECT_DIR$/W4E1/W4E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4E10/W4E10.iml" filepath="$PROJECT_DIR$/W4E10/W4E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4E2/W4E2.iml" filepath="$PROJECT_DIR$/W4E2/W4E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4E3/W4E3.iml" filepath="$PROJECT_DIR$/W4E3/W4E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4E4/W4E4.iml" filepath="$PROJECT_DIR$/W4E4/W4E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4T1/W4T1.iml" filepath="$PROJECT_DIR$/W4T1/W4T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4T2/W4T2.iml" filepath="$PROJECT_DIR$/W4T2/W4T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4T3/W4T3.iml" filepath="$PROJECT_DIR$/W4T3/W4T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4T4/W4T4.iml" filepath="$PROJECT_DIR$/W4T4/W4T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4T5/W4T5.iml" filepath="$PROJECT_DIR$/W4T5/W4T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E1/W5E1.iml" filepath="$PROJECT_DIR$/W5E1/W5E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E10/W5E10.iml" filepath="$PROJECT_DIR$/W5E10/W5E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E11/W5E11.iml" filepath="$PROJECT_DIR$/W5E11/W5E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E12/W5E12.iml" filepath="$PROJECT_DIR$/W5E12/W5E12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E13/W5E13.iml" filepath="$PROJECT_DIR$/W5E13/W5E13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E14/W5E14.iml" filepath="$PROJECT_DIR$/W5E14/W5E14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E15/W5E15.iml" filepath="$PROJECT_DIR$/W5E15/W5E15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E2/W5E2.iml" filepath="$PROJECT_DIR$/W5E2/W5E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E3/W5E3.iml" filepath="$PROJECT_DIR$/W5E3/W5E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E4/W5E4.iml" filepath="$PROJECT_DIR$/W5E4/W5E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E5/W5E5.iml" filepath="$PROJECT_DIR$/W5E5/W5E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E7/W5E7.iml" filepath="$PROJECT_DIR$/W5E7/W5E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E8/W5E8.iml" filepath="$PROJECT_DIR$/W5E8/W5E8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5E9/W5E9.iml" filepath="$PROJECT_DIR$/W5E9/W5E9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T1/W5T1.iml" filepath="$PROJECT_DIR$/W5T1/W5T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T2/W5T2.iml" filepath="$PROJECT_DIR$/W5T2/W5T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T3/W5T3.iml" filepath="$PROJECT_DIR$/W5T3/W5T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T4/W5T4.iml" filepath="$PROJECT_DIR$/W5T4/W5T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T4Tanya/W5T4Tanya.iml" filepath="$PROJECT_DIR$/W5T4Tanya/W5T4Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T5/W5T5.iml" filepath="$PROJECT_DIR$/W5T5/W5T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T5 Tanya/W5T5 Tanya.iml" filepath="$PROJECT_DIR$/W5T5 Tanya/W5T5 Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T6/W5T6.iml" filepath="$PROJECT_DIR$/W5T6/W5T6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T7/W5T7.iml" filepath="$PROJECT_DIR$/W5T7/W5T7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T8/W5T8.iml" filepath="$PROJECT_DIR$/W5T8/W5T8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T9/W5T9.iml" filepath="$PROJECT_DIR$/W5T9/W5T9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5T9Tanya/W5T9Tanya.iml" filepath="$PROJECT_DIR$/W5T9Tanya/W5T9Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W5Tanya/W5Tanya.iml" filepath="$PROJECT_DIR$/W5Tanya/W5Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6/W6.iml" filepath="$PROJECT_DIR$/W6/W6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E1/W6E1.iml" filepath="$PROJECT_DIR$/W6E1/W6E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E1.1/W6E1.1.iml" filepath="$PROJECT_DIR$/W6E1.1/W6E1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E2/W6E2.iml" filepath="$PROJECT_DIR$/W6E2/W6E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E3/W6E3.iml" filepath="$PROJECT_DIR$/W6E3/W6E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E4/W6E4.iml" filepath="$PROJECT_DIR$/W6E4/W6E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E5/W6E5.iml" filepath="$PROJECT_DIR$/W6E5/W6E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E6/W6E6.iml" filepath="$PROJECT_DIR$/W6E6/W6E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6E7/W6E7.iml" filepath="$PROJECT_DIR$/W6E7/W6E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T1/W6T1.iml" filepath="$PROJECT_DIR$/W6T1/W6T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T2/W6T2.iml" filepath="$PROJECT_DIR$/W6T2/W6T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T2 Tanya/W6T2 Tanya.iml" filepath="$PROJECT_DIR$/W6T2 Tanya/W6T2 Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T3/W6T3.iml" filepath="$PROJECT_DIR$/W6T3/W6T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T3 Tanya/W6T3 Tanya.iml" filepath="$PROJECT_DIR$/W6T3 Tanya/W6T3 Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T4/W6T4.iml" filepath="$PROJECT_DIR$/W6T4/W6T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T4 Tanya/W6T4 Tanya.iml" filepath="$PROJECT_DIR$/W6T4 Tanya/W6T4 Tanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W6T5/W6T5.iml" filepath="$PROJECT_DIR$/W6T5/W6T5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7E4/W7E4.iml" filepath="$PROJECT_DIR$/W7E4/W7E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7E5/W7E5.iml" filepath="$PROJECT_DIR$/W7E5/W7E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7E6/W7E6.iml" filepath="$PROJECT_DIR$/W7E6/W7E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7E7/W7E7.iml" filepath="$PROJECT_DIR$/W7E7/W7E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7T1/W7T1.iml" filepath="$PROJECT_DIR$/W7T1/W7T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7T2/W7T2.iml" filepath="$PROJECT_DIR$/W7T2/W7T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7T3/W7T3.iml" filepath="$PROJECT_DIR$/W7T3/W7T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W7T4/W7T4.iml" filepath="$PROJECT_DIR$/W7T4/W7T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8E1/W8E1.iml" filepath="$PROJECT_DIR$/W8E1/W8E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8T1/W8T1.iml" filepath="$PROJECT_DIR$/W8T1/W8T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8T2/W8T2.iml" filepath="$PROJECT_DIR$/W8T2/W8T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8T3/W8T3.iml" filepath="$PROJECT_DIR$/W8T3/W8T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W8T4/W8T4.iml" filepath="$PROJECT_DIR$/W8T4/W8T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
+    </modules>
+  </component>
+</project>

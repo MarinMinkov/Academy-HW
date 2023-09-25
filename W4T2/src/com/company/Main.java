@@ -1,0 +1,61 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int size = 0;
+        int [] arr;
+        int counter = 1;
+        boolean sorted = true;
+
+        while (true)
+        {
+            System.out.println("Enter a number from 1 to 20: ");
+            size = scanner.nextInt();
+            if (size>0 && size <= 20)
+            {
+                arr = new int[size];
+                break;
+            }
+            else
+            {
+                System.out.println("Wrong input!");
+            }
+        }
+
+        for (int i = 0; i < arr.length; i++)
+        {
+            arr[i] = scanner.nextInt();
+/*          if (i>0 && arr[i-1]>arr[i])  // Решение на задачата с един цикъл за обработка на масива.
+            {
+                sorted = false;
+                break; // ако искаме да прекъснем потребителя още при въвеждането.
+            }*/
+        }
+
+        //for (int i = 0; i < arr.length && sorted; i++)
+        while (sorted && counter < arr.length)
+        {
+            if (arr[counter-1]>arr[counter])
+            {
+                sorted = false; //понеже променливата е добавена като условие за цикъла промяната към false постига същия резултат като при break;
+                //break;
+            }
+            counter++;
+        }
+
+        if (sorted)
+        {
+            System.out.println(sorted);
+            System.out.println("The array is sorted!");
+        }
+        else
+        {
+            System.out.println(sorted);
+            System.out.println("The array is not sorted!");
+        }
+    }
+}
